@@ -37,11 +37,4 @@ Each assignment is organized in a separate folder with its corresponding source 
 
 I am grateful to **CodeAlpha** for providing me with this opportunity to gain practical experience and develop my frontend development skills.
 
-## 👩‍💻 Author
-
-**Areej Abdul Hafeez**
-Frontend Developer | Software Engineering Student
-
----
-
 ⭐ Feel free to explore the repository and check out my internship projects!
